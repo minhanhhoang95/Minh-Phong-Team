@@ -5,4 +5,4 @@
 - Bước 2: ở menu bên trái -> chọn Collaborators -> confirm do chính bạn muốn mời cộng tác
 - Bước 3: click vào nút Add people -> nhập email của người muốn cộng tác
 - Bước 4: người được mời sẽ nhận 1 email và người được mời click vào View Invitation -> click Accept để xác nhận đồng ý cộng tác
-- Bài tập: Thực hành Git Basic
+- Bước 5: Bài tập: Thực hành Git Basic cùng nhóm
